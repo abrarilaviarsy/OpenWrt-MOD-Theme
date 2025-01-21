@@ -1,2 +1,2 @@
-# YACD-MOD-Theme
-YACD MOD Theme
+# OpenWrt Theme MOD
+OpenWrt Theme MOD
